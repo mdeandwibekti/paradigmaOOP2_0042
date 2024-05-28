@@ -21,5 +21,11 @@ int main() {
 	lampurumah.setsaklarNo(2, "lampu kamar tidur");
 	lampurumah.setsaklarNo(3, "lampu dapur");
 
+	cout << lampurumah.getsaklarNo(0) << endl;
+	cout << lampurumah.getsaklarNo(1) << endl;
+	cout << lampurumah.getsaklarNo(2) << endl;
+	cout << lampurumah.getsaklarNo(3) << endl;
+
 	return 0;
+
 }
