@@ -16,4 +16,11 @@ public:
 	}
 };
 
+class lia :public seseorang {
+public:
+	void pesan() {
+		cout << "pesan dri lia" << endl;
+	}
+};
+
 
