@@ -2,7 +2,7 @@
 using namespace std;
 
 class abstraksiKlas {
-private:
+private: string x, y;
 
 public:
 
@@ -19,3 +19,4 @@ public:
 	}
 
 };
+
